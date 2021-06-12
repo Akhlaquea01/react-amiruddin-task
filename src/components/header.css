@@ -1,0 +1,9 @@
+.headbar{
+    height: 20vh;
+}
+.anouncebar{
+    background: #000;
+    color: #ffffff;
+    height: 5vh;
+    text-align: center;
+}

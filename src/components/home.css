@@ -1,0 +1,8 @@
+.homeContainer{
+    color: #ffffff;
+    height: 70vh;
+    width: 100vw;
+    background-image: url("./img/back1.jpg");
+    background-size: cover;
+    
+}
